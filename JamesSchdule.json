@@ -1,0 +1,51 @@
+[
+  {
+    "className": "English 4",
+    "teacher": "Mrs. Weksler",
+    "roomNumber": "E100",
+    "period": "1",
+    "subjectArea": "English"
+  },
+  {
+    "className": "Criminology & Law",
+    "teacher": "Mr. Wisniewski",
+    "roomNumber": "A105",
+    "period": "2",
+    "subjectArea": "Social Science"
+  },
+  {
+    "className": "Physical Ed 12",
+    "teacher": "Ms. Preston",
+    "roomNumber": "GYM",
+    "period": "3",
+    "subjectArea": "Physical Education"
+  },
+  {
+    "className": "Public Speaking",
+    "teacher": "Mrs. Bender",
+    "roomNumber": "A127",
+    "period": "4",
+    "subjectArea": "Art"
+  },
+  {
+    "className": "Honors Italian 4",
+    "teacher": "Mrs. Raineri",
+    "roomNumber": "A205",
+    "period": "5",
+    "subjectArea": "World Language"
+  },
+  {
+    "className": "AP Calculus AB",
+    "teacher": "Mrs. Daley",
+    "roomNumber": "E200",
+    "period": "6",
+    "subjectArea": "Math"
+  },
+  {
+    "className": "Honors NJIT IS219 Advanced Website Development WDP",
+    "teacher": "Mr. Kilgore",
+    "roomNumber": "B111",
+    "period": "7",
+    "subjectArea": "Technology"
+  }
+]

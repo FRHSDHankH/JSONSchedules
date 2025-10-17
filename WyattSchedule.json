@@ -1,0 +1,51 @@
+[
+  {
+    "className": "Physical Ed 12",
+    "teacher": "Mr. Ski",
+    "roomNumber": "GYM",
+    "period": "1",
+    "subjectArea": "Physical Education"
+  },
+  {
+    "className": "Criminology and Law",
+    "teacher": "Mr. Wisniewski",
+    "roomNumber": "A105",
+    "period": "2",
+    "subjectArea": "Social Studies"
+  },
+  {
+    "className": "AP Psychology",
+    "teacher": "Mrs. Foti",
+    "roomNumber": "A115",
+    "period": "3",
+    "subjectArea": "Social Science"
+  },
+  {
+    "className": "Honors Precalculus",
+    "teacher": "Mrs. Mullin",
+    "roomNumber": "E211",
+    "period": "4",
+    "subjectArea": "Math"
+  },
+  {
+    "className": "BCC ENG121 The Writing Process",
+    "teacher": "Mr. Sauter",
+    "roomNumber": "E111",
+    "period": "5",
+    "subjectArea": "English"
+  },
+  {
+    "className": "Global Studies",
+    "teacher": "Mrs. Shaw",
+    "roomNumber": "A109",
+    "period": "6",
+    "subjectArea": "History"
+  },
+  {
+    "className": "Honors NJIT IS219 Advanced Website Development WDP",
+    "teacher": "Mr. Kilgore",
+    "roomNumber": "B111",
+    "period": "7",
+    "subjectArea": "Computer Science"
+  }
+]
