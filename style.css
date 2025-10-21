@@ -1,3 +1,46 @@
 .bgMain {
-  background-color: antiquewhite;
+  background-color: #EEE09B;
+}
+
+.titleText {
+  color: #9B6217;
+  font-weight: bold;
+}
+
+.text {
+  color: #DCC266;
+}
+
+.bgSchedules {
+  background-color: #FFFDD0;
+}
+
+.hover {
+  transition: 0.3s;
+}
+
+.hover:hover {
+  transform: translate(0.3vw, -0.3vw);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFFDD0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9B6217;
+  border-radius: 2vw;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8a5511;
+}
+
+.size {
+  height: 100vh;
+  width: 100vw;
 }

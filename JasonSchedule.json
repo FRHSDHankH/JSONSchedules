@@ -1,48 +1,48 @@
 [
   {
-    "classname": "English 4",
+    "className": "English 4",
     "teacher": "Marian Fontanilla",
     "roomNumber": "E123",
     "period": "1",
     "subjectArea": "English"
   },
   {
-    "classname": "Health 12",
+    "className": "Health 12",
     "teacher": "Nicholas Scalzo",
     "roomNumber": "C130",
     "period": "2",
     "subjectArea": "English"
   },
   {
-    "classname": "Honors Precalculus",
+    "className": "Honors Precalculus",
     "teacher": "Jessica Marshall",
     "roomNumber": "A221",
     "period": "3",
     "subjectArea": "Math"
   },
   {
-    "classname": "AP US Govt and Politics",
+    "className": "AP US Govt and Politics",
     "teacher": "Eric Yang",
     "roomNumber": "A121",
     "period": "4",
     "subjectArea": "History"
   },
   {
-    "classname": "AP Computer Science A",
+    "className": "AP Computer Science A",
     "teacher": "Christine Rehwinkle",
     "roomNumber": "A234",
     "period": "5",
     "subjectArea": "Technology"
   },
   {
-    "classname": "Criminology and Law",
+    "className": "Criminology and Law",
     "teacher": "Victoria Quinn",
     "roomNumber": "A107",
     "period": "6",
     "subjectArea": "History"
   },
   {
-    "classname": "Honors NJIT IS219 Advanced Website Development WDP",
+    "className": "Honors NJIT IS219 Advanced Website Development WDP",
     "teacher": "Gregory Kilgore",
     "roomNumber": "B111",
     "period": "7",
